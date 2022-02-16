@@ -36,4 +36,3 @@ sqlite> .table
 --- sql 코드로 데이터 확인하기 
 
 
-fix read me file
