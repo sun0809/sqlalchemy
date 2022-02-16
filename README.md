@@ -34,3 +34,6 @@ D:\SQLAlchemy>sqlite3.exe pets.db
 sqlite> .table 
 # pets 확인
 --- sql 코드로 데이터 확인하기 
+
+
+fix read me file
